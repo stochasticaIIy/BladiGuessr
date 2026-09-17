@@ -68,6 +68,8 @@ export const TRANSLATIONS = {
     howToPlay2: 'استكشف المعالم واللافتات والأسوار والطراز المعماري للتعرف على المكان.',
     howToPlay3: 'افتح الخريطة في الأسفل، وضع المؤشر في أقرب نقطة تعتقد أنها موقعك، ثم اضغط "تأكيد التخمين".',
     howToPlay4: 'كلما كان تخمينك أقرب للموقع الحقيقي، كلما حصلت على نقاط أكثر (حتى 5000 نقطة لكل جولة).',
+    badgeTag: 'استكشاف شوارع وأزقة المغرب 360°',
+    allCitiesDesc: 'جميع المدن العشر والمناطق التاريخية',
     cloudflareReady: 'جاهز للنشر المجاني على Cloudflare Pages'
   },
   en: {
@@ -137,6 +139,8 @@ export const TRANSLATIONS = {
     howToPlay2: 'Look around for architectural cues, road signs, vegetation, and landmarks.',
     howToPlay3: 'Click on the map at the bottom right to drop your guess pin, then click "Confirm Guess".',
     howToPlay4: 'The closer your pin is to the exact Moroccan street, the more points you score (up to 5,000 pts per round).',
+    badgeTag: 'Authentic 360° Moroccan Street Exploration',
+    allCitiesDesc: 'All 10 historic cities & regions',
     cloudflareReady: 'Ready for free deployment on Cloudflare Pages'
   }
 };

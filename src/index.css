@@ -52,3 +52,30 @@
   border: 1px solid rgba(0, 0, 0, 0.08);
 }
 
+/* Moroccan subtle ambient background */
+.moroccan-pattern {
+  background-color: #0c0f17;
+  background-image: radial-gradient(circle at 50% 0%, rgba(245, 158, 11, 0.09) 0%, transparent 55%),
+                    radial-gradient(circle at 50% 100%, rgba(217, 119, 6, 0.06) 0%, transparent 55%),
+                    linear-gradient(rgba(245, 158, 11, 0.02) 1px, transparent 1px),
+                    linear-gradient(90deg, rgba(245, 158, 11, 0.02) 1px, transparent 1px);
+  background-size: 100% 100%, 100% 100%, 36px 36px, 36px 36px;
+}
+
+/* Sleek dark scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(13, 16, 25, 0.6);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(245, 158, 11, 0.25);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(245, 158, 11, 0.45);
+}
+

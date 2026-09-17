@@ -245,7 +245,7 @@ export default function App() {
   return (
     <main 
       id="bladiguessr-root" 
-      className="relative w-screen h-screen overflow-hidden bg-[#0a0d14] font-sans text-zinc-100 flex flex-col"
+      className="relative w-screen h-screen overflow-hidden bg-[#0c0f17] font-sans text-zinc-100 flex flex-col"
     >
       {/* 1. Main Menu View */}
       {gameStatus === 'menu' && (
