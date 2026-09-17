@@ -1,0 +1,6 @@
+{
+  "name": "BladiGuessr",
+  "description": "A Moroccan GeoGuessr game featuring authentic street-level 360° panoramic views across Moroccan cities from carte.ma with bilingual Arabic & English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
